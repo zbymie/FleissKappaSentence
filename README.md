@@ -1,0 +1,2 @@
+# FleissKappaSentence
+一个计算3人标注的Flessiskappa的程序，输入是拆分过的tsv，tsv格式按照示例即可
